@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Scroll View</string>
+    <string name="name1">Nike AirForce 1</string>
+    <string name="name2">iPhone 13 Pro Max</string>
+    <string name="name3">PS5 Console</string>
+    <string name="name4">Apple Air Pods</string>
+    <string name="name5">Rolex</string>
+    <string name="name6">Asus ROG Zephyrus</string>
+    <string name="name7">Chanel Coco</string>
+    <string name="name8">Wireless Charger</string>
+    <string name="name9">Binatone Electric Iron</string>
+    <string name="name10">Haier Thermocool</string>
+    <string name="Add">Add To Cart</string>
+    <string name="Title">New Title</string>
+    <string name="secKey">Secondary Text</string>
+    <string name="addKey">Additional text for further description</string>
+    <string name="nike_sec" tools:ignore="TypographyDashes">Unisex - AirForce 1 size 39 - 45, Utility Sneakers all colors available</string>
+    <string name="nike_price">Price: ₦ 38,000</string>
+    <string name="iphone_sec">Apple IPhone 13 Pro Max 6.7\" Super Retina XDR Display (6GB RAM +128GB ROM), IOS 15 - Platinum</string>
+    <string name="iphone_price">Price: ₦ 920,000</string>
+    <string name="ps5_sec">Sony PlayStation 5 (PS5) Console + Controller Charger DualSense Charging Dock</string>
+    <string name="ps5_price">Price: ₦ 675,000</string>
+    <string name="air_sec">Sleek AirPods - Multicolored with free case</string>
+    <string name="air_price">Price: ₦ 12,500</string>
+    <string name="rolex_price">Price: ₦ 22,000</string>
+    <string name="rolex_sec">Watch Men 45mm Stainless Steel Solid Clasp Quartz Rolex Men Leather Strap</string>
+    <string name="laptop_price">Price: ₦ 1,200,000</string>
+    <string name="laptop_Sec"> Asus has updated its most unique gaming laptop, the ROG Zephyrus Duo 15 SE, with a 4K 120Hz panel, the first of its kind.</string>
+    <string name="perfume_price">Price: ₦ 6,770</string>
+    <string name="perfumeSec">Chanel Coco Mademoiselle Intense eau de parfum</string>
+    <string name="wireless_Price">Price: ₦ 5,600</string>
+    <string name="wireless_Sec">Anker Wireless Charger, 313 Wireless Charger (Pad), Qi-Certified 10W Max for iPhone 12/12 Pro</string>
+    <string name="iron_Price">Price: ₦ 8,350</string>
+    <string name="iron_sec">Binatone SuperDry Electric Pressing Iron</string>
+    <string name="air_Sec">Haier Thermocool 1hp Tundra Air Conditioner-</string>
+    <string name="acPrice">Price: ₦ 139,500</string>
+</resources>
