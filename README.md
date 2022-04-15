@@ -1,4 +1,4 @@
-# Practicing_Recycler_View
+# Practicing Recycler View
 Used recycler view to display a scrollable list
 ## Description
 - Displayes the image, a description, price etc for each item 
