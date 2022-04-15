@@ -6,7 +6,7 @@ import com.example.scrollview.model.Values
 class Datasource {
     fun loadValues(): List<Values>{
 
-        return listOf<Values>(
+        return listOf(
             /**
              * This is where the values all go in
              *

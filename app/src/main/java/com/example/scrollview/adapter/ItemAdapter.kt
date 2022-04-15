@@ -16,7 +16,7 @@ class ItemAdapter(
     ): RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {
 
 
-    class ItemViewHolder(private val view: View ): RecyclerView.ViewHolder(view){
+    class ItemViewHolder(view: View ): RecyclerView.ViewHolder(view){
         val title: TextView = view.findViewById(R.id.title)
         val secondary: TextView = view.findViewById(R.id.secondary_text)
         val additional: TextView = view.findViewById(R.id.additional_text)
