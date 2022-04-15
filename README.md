@@ -10,14 +10,14 @@ Used recycler view to display a scrollable list
 **This personal project was done after completion of Unit 2: Layouts, Android Basics In Kotlin**
 
 ## Screenshots
-** Preview 1 **
+**Preview 1**
 --
 <img src = "app/src/main/res/drawable/scroll1.jpg" width = "400">
 
-** Preview 2 **
+**Preview 2**
 --
 <img src = "app/src/main/res/drawable/scroll2.jpg" width = "400">
 
-** Preview 3 **
+**Preview 3**
 --
 <img src = "app/src/main/res/drawable/scroll3.jpg" width = "400">
